@@ -1,6 +1,6 @@
-<h1 align="center">Hey there i'm <a href="https://github.com/arichild">arichild</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hey there, i'm <a href="https://github.com/arichild">arichild</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/arichild/arichild/blob/main/assets/1355e4415c3121d59403bf3832bd788c.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/arichild/arichild/blob/main/assets/anime-writing.gif">
 </div>
 
 </br>
@@ -32,6 +32,7 @@
 
 </br>
 </br>
+</br>
 
 ## Contact me:
 If you want to reach out to me about anything, be it some doubt or just to </br> hangout and talk or want to game together just ping me 😉.
@@ -44,20 +45,27 @@ If you want to reach out to me about anything, be it some doubt or just to </br>
 </br>
 </br>
 </br>
+</br>
 
 <h2 align="left"><g-emoji alias="headphones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png">🎧</g-emoji> Listening right now: </h2>
 <p align="left">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=7marco6rwybmamb73h0ef4p0d&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=7marco6rwybmamb73h0ef4p0d&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
+    <img hight="320" width="420" src="https://spotify-github-profile.vercel.app/api/view?uid=7marco6rwybmamb73h0ef4p0d&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
   </a>
+  
+  <img hight="280" width="400" alt="GIF" align="right" src="https://github.com/arichild/arichild/blob/main/assets/9538801c7a824a18366467ca57e39bf0.gif">
 </p>
 
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arichild&layout=compact"/>
+    <img hight="300" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arichild&layout=compact"/>
   </a>
 </p>
 
