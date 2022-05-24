@@ -48,13 +48,8 @@ If you want to reach out to me about anything, be it some doubt or just to </br>
 </br>
 
 <h2 align="left"><g-emoji alias="headphones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png">🎧</g-emoji> Listening right now: </h2>
-<p align="left">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=7marco6rwybmamb73h0ef4p0d&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-    <img hight="320" width="420" src="https://spotify-github-profile.vercel.app/api/view?uid=7marco6rwybmamb73h0ef4p0d&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-  </a>
-  
-  <img hight="280" width="400" alt="GIF" align="right" src="https://github.com/arichild/arichild/blob/main/assets/9538801c7a824a18366467ca57e39bf0.gif">
-</p>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=7marco6rwybmamb73h0ef4p0d&count=8&width=1000)
 
 </br>
 </br>
