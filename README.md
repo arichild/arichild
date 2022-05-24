@@ -51,17 +51,4 @@ If you want to reach out to me about anything, be it some doubt or just to </br>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=7marco6rwybmamb73h0ef4p0d&count=8&width=1000)
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img hight="300" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arichild&layout=compact"/>
-  </a>
-</p>
-
 *************
