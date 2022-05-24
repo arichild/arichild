@@ -49,6 +49,6 @@ If you want to reach out to me about anything, be it some doubt or just to </br>
 
 <h2 align="left"><g-emoji alias="headphones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png">🎧</g-emoji> Listening right now: </h2>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=7marco6rwybmamb73h0ef4p0d&count=8&width=1000)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=7marco6rwybmamb73h0ef4p0d&count=8&width=1000&unique=true)
 
 *************
