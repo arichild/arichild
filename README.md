@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, i'm <a href="https://github.com/arichild">arichild</a></h1>
+<h1 align="center">Hey there, i'm <a href="https://t.me/arichild">arichild</a></h1>
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/arichild/arichild/blob/main/assets/anime-writing.gif">
 </div>
